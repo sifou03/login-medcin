@@ -1,0 +1,44 @@
+ @media (min-width:769px){
+
+ }
+ fieldset{
+    margin-left:  300px;
+    width: 700px;
+    border-radius: 5px;
+    border: none;
+    background-image: url(gg.jpg);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
+    .information{
+        display: flex;
+        flex-direction: column;
+        row-gap: 5px;
+        font-family: 'Franklin Gothic Medium';
+        
+        position: absolute;
+        top: 50%;
+        left: 70%;
+        transform: translate(-50%,-50%);
+        }
+        .information input{
+            padding: 3px;
+            width: 300px;
+            height: 40px;
+            border-radius: 10px;
+            text-align: center;
+            background-color: #f6f6f9;
+            border: 1.5px solid rgb(181,182 ,183 );
+            font-size: 1rem;
+        }
+        .rrr input{
+            background-color:rgba(18, 114, 18, 0.582);
+            color: rgb(255, 255, 255);
+        }
+        .ddd{
+        position: absolute;
+        top: 60px; ;
+       left: 150px;
+        }
+.titre  {
+    font-size: 2.5rem;
+    font-weight: 5px;
+}     
